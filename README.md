@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Shavais
 - 👀 I’m interested in ... 
-     - Indie Game development in C# using low level libraries (without using any 3rd party game engine)
-     - Preventing America and the world from sacrificing individual freedom and liberty on the alter of a false illusion of safety and security 
+     - Indie Game development in Rust using low level libraries (without using any 3rd party game engine)
+     - Stopping the globalist take over
 - 🌱 I’m currently learning ... 
-     - Things I need to learn to progress on various programming projects for work and for play 
+     - More about Rust
+     - More about 3D rendering using OpenGL and Vulkan
 - 💞️ I’m looking to collaborate on ...
      - I'll alpha test your current game dev project if you'll alpha test mine (once it reaches a point where I'm giving out test keys)
      - If you'd like, I'll read and respond briefly (once or twice a week) to personal notes about your progress on your projects if you'll do the same for me
