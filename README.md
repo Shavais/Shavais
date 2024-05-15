@@ -6,7 +6,7 @@
      - More about Rust
      - More about 3D rendering using OpenGL and Vulkan
 - 💞️ I’m looking to collaborate on ...
-     - I'll test your game if you'll alpha test mine
+     - I'll test your game if you'll test mine
      - If you'd like, I'll read and respond briefly (once or twice a week) to emails about your current project if you'll do the same for me
 - 📫 How to reach me ...
      - email shavais@gmail.com with this subject line: "I saw your github readme" 
